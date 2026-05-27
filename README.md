@@ -9,7 +9,7 @@ Built with [YAMLGraph](https://github.com/sami-heikkinen/yamlgraph) — a framew
 ### 1. Install
 
 ```bash
-python -m venv .venv && source .venv/bin/activate
+python3.13 -m venv .venv && source .venv/bin/activate
 pip install yamlgraph
 ```
 
