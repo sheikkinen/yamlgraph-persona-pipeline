@@ -1,5 +1,7 @@
 # Persona & Scenario Generator
 
+![Persona & Scenario Generator](img/personas.jpg)
+
 Generate user personas and usage scenarios for any product idea — output is a set of interlinked markdown files you can browse, edit, or feed into downstream tools.
 
 Built with [YAMLGraph](https://github.com/sami-heikkinen/yamlgraph) — a framework that lets you define LLM pipelines entirely in YAML. No Python glue code for orchestration; just declare nodes, prompts, and edges.
